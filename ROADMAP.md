@@ -1,5 +1,7 @@
 # LiteLLM Mastery — Roadmap
 
+Theory for every project: [`theory/`](./theory/README.md). Read the chapter, then build.
+
 Goal: go from zero to top 1% LiteLLM engineer by **building projects** (top-down).
 Each project teaches only the concepts it needs, right when it needs them.
 

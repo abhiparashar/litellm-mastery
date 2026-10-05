@@ -1,0 +1,6 @@
+# API keys live here. Never commit them.
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
